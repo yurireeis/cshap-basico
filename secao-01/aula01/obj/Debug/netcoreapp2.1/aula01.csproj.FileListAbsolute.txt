@@ -1,0 +1,11 @@
+/home/yreis/estudo/csharp/secao-01/aula01/bin/Debug/netcoreapp2.1/aula01.deps.json
+/home/yreis/estudo/csharp/secao-01/aula01/bin/Debug/netcoreapp2.1/aula01.runtimeconfig.json
+/home/yreis/estudo/csharp/secao-01/aula01/bin/Debug/netcoreapp2.1/aula01.runtimeconfig.dev.json
+/home/yreis/estudo/csharp/secao-01/aula01/bin/Debug/netcoreapp2.1/aula01.dll
+/home/yreis/estudo/csharp/secao-01/aula01/bin/Debug/netcoreapp2.1/aula01.pdb
+/home/yreis/estudo/csharp/secao-01/aula01/obj/Debug/netcoreapp2.1/aula01.csprojAssemblyReference.cache
+/home/yreis/estudo/csharp/secao-01/aula01/obj/Debug/netcoreapp2.1/aula01.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/csharp/secao-01/aula01/obj/Debug/netcoreapp2.1/aula01.AssemblyInfoInputs.cache
+/home/yreis/estudo/csharp/secao-01/aula01/obj/Debug/netcoreapp2.1/aula01.AssemblyInfo.cs
+/home/yreis/estudo/csharp/secao-01/aula01/obj/Debug/netcoreapp2.1/aula01.dll
+/home/yreis/estudo/csharp/secao-01/aula01/obj/Debug/netcoreapp2.1/aula01.pdb

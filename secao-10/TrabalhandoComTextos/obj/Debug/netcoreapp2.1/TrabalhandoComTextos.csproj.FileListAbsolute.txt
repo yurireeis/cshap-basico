@@ -1,0 +1,11 @@
+/home/yreis/estudo/csharp/secao-10/TrabalhandoComTextos/bin/Debug/netcoreapp2.1/TrabalhandoComTextos.deps.json
+/home/yreis/estudo/csharp/secao-10/TrabalhandoComTextos/bin/Debug/netcoreapp2.1/TrabalhandoComTextos.runtimeconfig.json
+/home/yreis/estudo/csharp/secao-10/TrabalhandoComTextos/bin/Debug/netcoreapp2.1/TrabalhandoComTextos.runtimeconfig.dev.json
+/home/yreis/estudo/csharp/secao-10/TrabalhandoComTextos/bin/Debug/netcoreapp2.1/TrabalhandoComTextos.dll
+/home/yreis/estudo/csharp/secao-10/TrabalhandoComTextos/bin/Debug/netcoreapp2.1/TrabalhandoComTextos.pdb
+/home/yreis/estudo/csharp/secao-10/TrabalhandoComTextos/obj/Debug/netcoreapp2.1/TrabalhandoComTextos.csprojAssemblyReference.cache
+/home/yreis/estudo/csharp/secao-10/TrabalhandoComTextos/obj/Debug/netcoreapp2.1/TrabalhandoComTextos.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/csharp/secao-10/TrabalhandoComTextos/obj/Debug/netcoreapp2.1/TrabalhandoComTextos.AssemblyInfoInputs.cache
+/home/yreis/estudo/csharp/secao-10/TrabalhandoComTextos/obj/Debug/netcoreapp2.1/TrabalhandoComTextos.AssemblyInfo.cs
+/home/yreis/estudo/csharp/secao-10/TrabalhandoComTextos/obj/Debug/netcoreapp2.1/TrabalhandoComTextos.dll
+/home/yreis/estudo/csharp/secao-10/TrabalhandoComTextos/obj/Debug/netcoreapp2.1/TrabalhandoComTextos.pdb

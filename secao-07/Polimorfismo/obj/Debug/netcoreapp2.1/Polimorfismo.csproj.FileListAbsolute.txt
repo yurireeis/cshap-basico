@@ -1,0 +1,11 @@
+/home/yreis/estudo/csharp/secao-07/Polimorfismo/bin/Debug/netcoreapp2.1/Polimorfismo.deps.json
+/home/yreis/estudo/csharp/secao-07/Polimorfismo/bin/Debug/netcoreapp2.1/Polimorfismo.runtimeconfig.json
+/home/yreis/estudo/csharp/secao-07/Polimorfismo/bin/Debug/netcoreapp2.1/Polimorfismo.runtimeconfig.dev.json
+/home/yreis/estudo/csharp/secao-07/Polimorfismo/bin/Debug/netcoreapp2.1/Polimorfismo.dll
+/home/yreis/estudo/csharp/secao-07/Polimorfismo/bin/Debug/netcoreapp2.1/Polimorfismo.pdb
+/home/yreis/estudo/csharp/secao-07/Polimorfismo/obj/Debug/netcoreapp2.1/Polimorfismo.csprojAssemblyReference.cache
+/home/yreis/estudo/csharp/secao-07/Polimorfismo/obj/Debug/netcoreapp2.1/Polimorfismo.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/csharp/secao-07/Polimorfismo/obj/Debug/netcoreapp2.1/Polimorfismo.AssemblyInfoInputs.cache
+/home/yreis/estudo/csharp/secao-07/Polimorfismo/obj/Debug/netcoreapp2.1/Polimorfismo.AssemblyInfo.cs
+/home/yreis/estudo/csharp/secao-07/Polimorfismo/obj/Debug/netcoreapp2.1/Polimorfismo.dll
+/home/yreis/estudo/csharp/secao-07/Polimorfismo/obj/Debug/netcoreapp2.1/Polimorfismo.pdb

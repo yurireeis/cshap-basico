@@ -1,0 +1,11 @@
+/home/yreis/estudo/csharp/secao-07/Heranca/bin/Debug/netcoreapp2.1/Heranca.deps.json
+/home/yreis/estudo/csharp/secao-07/Heranca/bin/Debug/netcoreapp2.1/Heranca.runtimeconfig.json
+/home/yreis/estudo/csharp/secao-07/Heranca/bin/Debug/netcoreapp2.1/Heranca.runtimeconfig.dev.json
+/home/yreis/estudo/csharp/secao-07/Heranca/bin/Debug/netcoreapp2.1/Heranca.dll
+/home/yreis/estudo/csharp/secao-07/Heranca/bin/Debug/netcoreapp2.1/Heranca.pdb
+/home/yreis/estudo/csharp/secao-07/Heranca/obj/Debug/netcoreapp2.1/Heranca.csprojAssemblyReference.cache
+/home/yreis/estudo/csharp/secao-07/Heranca/obj/Debug/netcoreapp2.1/Heranca.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/csharp/secao-07/Heranca/obj/Debug/netcoreapp2.1/Heranca.AssemblyInfoInputs.cache
+/home/yreis/estudo/csharp/secao-07/Heranca/obj/Debug/netcoreapp2.1/Heranca.AssemblyInfo.cs
+/home/yreis/estudo/csharp/secao-07/Heranca/obj/Debug/netcoreapp2.1/Heranca.dll
+/home/yreis/estudo/csharp/secao-07/Heranca/obj/Debug/netcoreapp2.1/Heranca.pdb

@@ -1,0 +1,11 @@
+/home/yreis/estudo/csharp/secao-03/OrientacaoAObjeto/bin/Debug/netcoreapp2.1/OrientacaoAObjeto.deps.json
+/home/yreis/estudo/csharp/secao-03/OrientacaoAObjeto/bin/Debug/netcoreapp2.1/OrientacaoAObjeto.runtimeconfig.json
+/home/yreis/estudo/csharp/secao-03/OrientacaoAObjeto/bin/Debug/netcoreapp2.1/OrientacaoAObjeto.runtimeconfig.dev.json
+/home/yreis/estudo/csharp/secao-03/OrientacaoAObjeto/bin/Debug/netcoreapp2.1/OrientacaoAObjeto.dll
+/home/yreis/estudo/csharp/secao-03/OrientacaoAObjeto/bin/Debug/netcoreapp2.1/OrientacaoAObjeto.pdb
+/home/yreis/estudo/csharp/secao-03/OrientacaoAObjeto/obj/Debug/netcoreapp2.1/OrientacaoAObjeto.csprojAssemblyReference.cache
+/home/yreis/estudo/csharp/secao-03/OrientacaoAObjeto/obj/Debug/netcoreapp2.1/OrientacaoAObjeto.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/csharp/secao-03/OrientacaoAObjeto/obj/Debug/netcoreapp2.1/OrientacaoAObjeto.AssemblyInfoInputs.cache
+/home/yreis/estudo/csharp/secao-03/OrientacaoAObjeto/obj/Debug/netcoreapp2.1/OrientacaoAObjeto.AssemblyInfo.cs
+/home/yreis/estudo/csharp/secao-03/OrientacaoAObjeto/obj/Debug/netcoreapp2.1/OrientacaoAObjeto.dll
+/home/yreis/estudo/csharp/secao-03/OrientacaoAObjeto/obj/Debug/netcoreapp2.1/OrientacaoAObjeto.pdb

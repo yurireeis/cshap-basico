@@ -1,0 +1,11 @@
+/home/yreis/estudo/csharp/secao-04/Repeticao/bin/Debug/netcoreapp2.1/Repeticao.deps.json
+/home/yreis/estudo/csharp/secao-04/Repeticao/bin/Debug/netcoreapp2.1/Repeticao.runtimeconfig.json
+/home/yreis/estudo/csharp/secao-04/Repeticao/bin/Debug/netcoreapp2.1/Repeticao.runtimeconfig.dev.json
+/home/yreis/estudo/csharp/secao-04/Repeticao/bin/Debug/netcoreapp2.1/Repeticao.dll
+/home/yreis/estudo/csharp/secao-04/Repeticao/bin/Debug/netcoreapp2.1/Repeticao.pdb
+/home/yreis/estudo/csharp/secao-04/Repeticao/obj/Debug/netcoreapp2.1/Repeticao.csprojAssemblyReference.cache
+/home/yreis/estudo/csharp/secao-04/Repeticao/obj/Debug/netcoreapp2.1/Repeticao.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/csharp/secao-04/Repeticao/obj/Debug/netcoreapp2.1/Repeticao.AssemblyInfoInputs.cache
+/home/yreis/estudo/csharp/secao-04/Repeticao/obj/Debug/netcoreapp2.1/Repeticao.AssemblyInfo.cs
+/home/yreis/estudo/csharp/secao-04/Repeticao/obj/Debug/netcoreapp2.1/Repeticao.dll
+/home/yreis/estudo/csharp/secao-04/Repeticao/obj/Debug/netcoreapp2.1/Repeticao.pdb

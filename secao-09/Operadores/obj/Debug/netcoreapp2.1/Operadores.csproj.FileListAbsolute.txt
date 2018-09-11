@@ -1,0 +1,11 @@
+/home/yreis/estudo/csharp/secao-09/Operadores/bin/Debug/netcoreapp2.1/Operadores.deps.json
+/home/yreis/estudo/csharp/secao-09/Operadores/bin/Debug/netcoreapp2.1/Operadores.runtimeconfig.json
+/home/yreis/estudo/csharp/secao-09/Operadores/bin/Debug/netcoreapp2.1/Operadores.runtimeconfig.dev.json
+/home/yreis/estudo/csharp/secao-09/Operadores/bin/Debug/netcoreapp2.1/Operadores.dll
+/home/yreis/estudo/csharp/secao-09/Operadores/bin/Debug/netcoreapp2.1/Operadores.pdb
+/home/yreis/estudo/csharp/secao-09/Operadores/obj/Debug/netcoreapp2.1/Operadores.csprojAssemblyReference.cache
+/home/yreis/estudo/csharp/secao-09/Operadores/obj/Debug/netcoreapp2.1/Operadores.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/csharp/secao-09/Operadores/obj/Debug/netcoreapp2.1/Operadores.AssemblyInfoInputs.cache
+/home/yreis/estudo/csharp/secao-09/Operadores/obj/Debug/netcoreapp2.1/Operadores.AssemblyInfo.cs
+/home/yreis/estudo/csharp/secao-09/Operadores/obj/Debug/netcoreapp2.1/Operadores.dll
+/home/yreis/estudo/csharp/secao-09/Operadores/obj/Debug/netcoreapp2.1/Operadores.pdb

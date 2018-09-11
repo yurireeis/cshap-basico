@@ -1,0 +1,11 @@
+/home/yreis/estudo/csharp/secao-07/Construtor/bin/Debug/netcoreapp2.1/Construtor.deps.json
+/home/yreis/estudo/csharp/secao-07/Construtor/bin/Debug/netcoreapp2.1/Construtor.runtimeconfig.json
+/home/yreis/estudo/csharp/secao-07/Construtor/bin/Debug/netcoreapp2.1/Construtor.runtimeconfig.dev.json
+/home/yreis/estudo/csharp/secao-07/Construtor/bin/Debug/netcoreapp2.1/Construtor.dll
+/home/yreis/estudo/csharp/secao-07/Construtor/bin/Debug/netcoreapp2.1/Construtor.pdb
+/home/yreis/estudo/csharp/secao-07/Construtor/obj/Debug/netcoreapp2.1/Construtor.csprojAssemblyReference.cache
+/home/yreis/estudo/csharp/secao-07/Construtor/obj/Debug/netcoreapp2.1/Construtor.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/csharp/secao-07/Construtor/obj/Debug/netcoreapp2.1/Construtor.AssemblyInfoInputs.cache
+/home/yreis/estudo/csharp/secao-07/Construtor/obj/Debug/netcoreapp2.1/Construtor.AssemblyInfo.cs
+/home/yreis/estudo/csharp/secao-07/Construtor/obj/Debug/netcoreapp2.1/Construtor.dll
+/home/yreis/estudo/csharp/secao-07/Construtor/obj/Debug/netcoreapp2.1/Construtor.pdb

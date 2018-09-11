@@ -1,0 +1,11 @@
+/home/yreis/estudo/csharp/secao-02/TiposPrimitivos/bin/Debug/netcoreapp2.1/TiposPrimitivos.deps.json
+/home/yreis/estudo/csharp/secao-02/TiposPrimitivos/bin/Debug/netcoreapp2.1/TiposPrimitivos.runtimeconfig.json
+/home/yreis/estudo/csharp/secao-02/TiposPrimitivos/bin/Debug/netcoreapp2.1/TiposPrimitivos.runtimeconfig.dev.json
+/home/yreis/estudo/csharp/secao-02/TiposPrimitivos/bin/Debug/netcoreapp2.1/TiposPrimitivos.dll
+/home/yreis/estudo/csharp/secao-02/TiposPrimitivos/bin/Debug/netcoreapp2.1/TiposPrimitivos.pdb
+/home/yreis/estudo/csharp/secao-02/TiposPrimitivos/obj/Debug/netcoreapp2.1/TiposPrimitivos.csprojAssemblyReference.cache
+/home/yreis/estudo/csharp/secao-02/TiposPrimitivos/obj/Debug/netcoreapp2.1/TiposPrimitivos.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/csharp/secao-02/TiposPrimitivos/obj/Debug/netcoreapp2.1/TiposPrimitivos.AssemblyInfoInputs.cache
+/home/yreis/estudo/csharp/secao-02/TiposPrimitivos/obj/Debug/netcoreapp2.1/TiposPrimitivos.AssemblyInfo.cs
+/home/yreis/estudo/csharp/secao-02/TiposPrimitivos/obj/Debug/netcoreapp2.1/TiposPrimitivos.dll
+/home/yreis/estudo/csharp/secao-02/TiposPrimitivos/obj/Debug/netcoreapp2.1/TiposPrimitivos.pdb

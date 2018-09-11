@@ -1,0 +1,11 @@
+/home/yreis/estudo/csharp/secao-04/Condicional/bin/Debug/netcoreapp2.1/Condicional.deps.json
+/home/yreis/estudo/csharp/secao-04/Condicional/bin/Debug/netcoreapp2.1/Condicional.runtimeconfig.json
+/home/yreis/estudo/csharp/secao-04/Condicional/bin/Debug/netcoreapp2.1/Condicional.runtimeconfig.dev.json
+/home/yreis/estudo/csharp/secao-04/Condicional/bin/Debug/netcoreapp2.1/Condicional.dll
+/home/yreis/estudo/csharp/secao-04/Condicional/bin/Debug/netcoreapp2.1/Condicional.pdb
+/home/yreis/estudo/csharp/secao-04/Condicional/obj/Debug/netcoreapp2.1/Condicional.csprojAssemblyReference.cache
+/home/yreis/estudo/csharp/secao-04/Condicional/obj/Debug/netcoreapp2.1/Condicional.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/csharp/secao-04/Condicional/obj/Debug/netcoreapp2.1/Condicional.AssemblyInfoInputs.cache
+/home/yreis/estudo/csharp/secao-04/Condicional/obj/Debug/netcoreapp2.1/Condicional.AssemblyInfo.cs
+/home/yreis/estudo/csharp/secao-04/Condicional/obj/Debug/netcoreapp2.1/Condicional.dll
+/home/yreis/estudo/csharp/secao-04/Condicional/obj/Debug/netcoreapp2.1/Condicional.pdb
